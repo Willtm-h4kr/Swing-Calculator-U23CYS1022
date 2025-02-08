@@ -17,7 +17,7 @@ Prerequisites
 Steps
 	Clone the Repository
 git clone https://github.com/Willtm-h4kr/swing-calculator.git
- 		cd swing-calculator
+ 		cd swing-calculator-U23CYS1022
 
 	Compile the Code
   		javac SwingCalculator.java
