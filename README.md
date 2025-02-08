@@ -16,7 +16,7 @@ Prerequisites
 	Install Java JDK 8+
 Steps
 	Clone the Repository
-git clone https://github.com/yourusername/swing-calculator.git
+git clone https://github.com/Willtm-h4kr/swing-calculator.git
  		cd swing-calculator
 
 	Compile the Code
